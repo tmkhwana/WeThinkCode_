@@ -1,6 +1,6 @@
 <img src="https://old.disruptafrica.com/wp-content/uploads/2015/09/wethinkcode.png" alt="MasterHead" height="280" width="800">
 
-## A collection of projects crafted during my learning odyssey
+## A collection of projects crafted during my learning journey
 
 The curriculum is project-based, and students learn by solving real-world problems, fostering self-discipline, collaboration, and creativity. It's like Hogwarts, but with more debugging.
 
