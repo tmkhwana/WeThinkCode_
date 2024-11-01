@@ -9,7 +9,7 @@ The curriculum is project-based, and students learn by solving real-world proble
 ### What I Did:
 - **🚀 Tackled Projects:** Built apps that (mostly) worked and solved problems I didn’t even know existed.
 - **🤯 Faced Brain-Bending Challenges:** The kind that made me think, "Wait, how does this even work?!"
-- **💻 Mastered Late-Night Coding:** Because bugs don’t sleep, and apparently, neither did I. Remeber the 24 hour chnallange?? IYKYK haha
+- **💻 Mastered Late-Night Coding:** Because bugs don’t sleep, and apparently, neither did I. Remember the 24 hour challenge?? IYKYK haha
 
 ---
 
